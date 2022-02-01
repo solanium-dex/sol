@@ -1,0 +1,204 @@
+Uri: https://www.shibaspace.net/
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\index.htm
+Content Type: text/html
+
+Uri: https://www.shibaspace.net/images/SVG/face-icon.svg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\SVG\face-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.shibaspace.net/fav/apple-icon-57x57.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-60x60.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-72x72.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-76x76.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-114x114.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-120x120.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-144x144.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-152x152.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/apple-icon-180x180.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/android-icon-192x192.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/favicon-32x32.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/favicon-96x96.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/favicon-16x16.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/fav/manifest.json
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fav\manifest.json
+Content Type: application/json
+
+Uri: https://www.shibaspace.net/css/font-awesome.min.css
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.shibaspace.net/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.shibaspace.net/css/slick.css
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\css\slick.css
+Content Type: text/css
+
+Uri: https://www.shibaspace.net/css/style.css
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\css\style.css
+Content Type: text/css
+
+Uri: https://www.shibaspace.net/css/responsive.css
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.shibaspace.net/images/logo.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\logo.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/images/SVG/shibaspace.svg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\SVG\shibaspace.svg
+Content Type: image/svg+xml
+
+Uri: https://www.shibaspace.net/images/shibaspace-1.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\shibaspace-1.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/images/shibaspace-2.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\shibaspace-2.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/images/shibaspace-6.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\shibaspace-6.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/images/g1.jpg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\g1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.shibaspace.net/images/g2.jpg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\g2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.shibaspace.net/images/g3.jpg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\g3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.shibaspace.net/images/g4.jpg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\g4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.shibaspace.net/images/g5.jpg
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\g5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.shibaspace.net/images/shibaspace-8.png
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\images\shibaspace-8.png
+Content Type: image/png
+
+Uri: https://www.shibaspace.net/js/jquery-3.3.1.min.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/slick.min.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/particles.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\particles.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/app.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\app.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/circular.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\circular.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/custom.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/core.min.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/flipdown.js
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\flipdown.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/js/crypto.mind46f.js?v=1.2.4
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\js\crypto.mind46f.js
+Content Type: application/javascript
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfont3e6e.eot%3Fv=4.7.0
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfont3e6e.eotv=4.7.0
+Content Type: 
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfontd41d.eot
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfont3e6e.woff2%3Fv=4.7.0.html
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfont3e6e.woff2v=4.7.0.html
+Content Type: text/html
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfont3e6e.woff%3Fv=4.7.0
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfont3e6e.woffv=4.7.0
+Content Type: 
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfont3e6e.ttf%3Fv=4.7.0
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfont3e6e.ttfv=4.7.0
+Content Type: 
+
+Uri: https://www.shibaspace.net/fonts/fontawesome-webfont3e6e.svg%3Fv=4.7.0
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\fontawesome-webfont3e6e.svgv=4.7.0
+Content Type: 
+
+Uri: https://www.shibaspace.net/fonts/Poppins-Bold.ttf
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\Poppins-Bold.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.shibaspace.net/fonts/Poppins-Regular.ttf
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\Poppins-Regular.ttf
+Content Type: application/font-sfnt
+
+Uri: https://www.shibaspace.net/fonts/Poppins-Light.ttf
+File Name: c:\Downloaded Web Sites\www.shibaspace.net\fonts\Poppins-Light.ttf
+Content Type: application/font-sfnt
+
